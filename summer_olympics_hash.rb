@@ -18,7 +18,6 @@ def add_a_key_value_pair
   }
   summer_olympics.each do |place,year|
     puts "The #{place} summer olympics took placein #{year}"
-    puts summer_olympics
   end 
 end
 puts add_a_key_value_pair
